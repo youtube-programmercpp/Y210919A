@@ -42,4 +42,9 @@
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Source.def">
+      <Filter>ソース ファイル</Filter>
+    </None>
+  </ItemGroup>
 </Project>

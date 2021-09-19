@@ -1,0 +1,7 @@
+EXPORTS
+	Test1IntAdd      
+	Test2RetStr      
+	Test3StrObjNew   
+	Test3StrObjDelete
+	Test3StrObjPeek  
+	Test3StrObjAppend

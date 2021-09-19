@@ -36,7 +36,7 @@ int main()
 			Test3StrObjAppend(p, L", Gamma");
 			Test3StrObjAppend(p, L", Delta");
 		}
-		std::cout
+		std::wcout
 			<< Dll1->Test1IntAdd    (1, 2) << '\n'
 			<< Dll1->Test2RetStr    (    ) << '\n'
 			<< Dll1->Test3StrObjPeek(p   ) << '\n'
